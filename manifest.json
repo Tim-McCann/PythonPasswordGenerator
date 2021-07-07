@@ -1,0 +1,11 @@
+{
+
+    "name": "Password Generator Extension",
+    "version": "0.0.1",
+    "description": "password generator",
+    "manifest_version": 2,
+    "browser_action": {
+        "default_popup": "password_generator.py",
+        "default_icon": "logo.html"
+    }
+}
